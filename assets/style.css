@@ -75,7 +75,18 @@
   img {
     width: 75%;
   }
+
+  #profile-picture {
+    width: 15%;
+  }
   
+  /* img test */
+
+  /* #about {
+  background-image: url('./images/pixel-background.webp');
+  } */
+  
+
   header {
     background-color: var(--primary);
     position: sticky;
