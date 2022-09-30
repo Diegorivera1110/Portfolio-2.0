@@ -946,6 +946,7 @@
   
     .page-title {
       width: auto;
+      border-radius: var(--border-radius);
     }
   
     .col-lg-1 {
