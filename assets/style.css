@@ -652,6 +652,7 @@
   .py-1 {
     padding-top: var(--spacing-one);
     padding-bottom: var(--spacing-one);
+    border-radius: var(--border-radius);
   }
   
   .py-2 {
