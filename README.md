@@ -3,15 +3,15 @@
   ## Description
   This site is my Portfolio showcasing projects I have created from scratch. The reason my repository for my Portfolio is 2.0 is due to this is my second portfolio that I created my with a Node.js app I created (Portfolio-Generator) that runs through inquirer and generates a fully styled and functional Portfolio after all answers have been completed through the command prompt. 
 
+  ## Screenshot
+  ![Screenshot](./assets/images/screenshot-portfolio.png)
+
   ## Table of Contents
   - [Installation](#installation)
   - [Usage](#usage)
   - [Credits](#credits)
   - [License](#license)
   - [Questions](#questions)
-
-  ## Screenshot
-  ![Screenshot](./assets/images/screenshot-portfolio.png)
 
   ## Installation
   The easiest way to install my portfolio repository would be to git clone or download the ZIP file. 
