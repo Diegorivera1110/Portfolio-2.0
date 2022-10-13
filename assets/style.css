@@ -724,6 +724,7 @@
   
   .bg-secondary {
     background-color: var(--secondary);
+    font-weight: bolder;
   }
   
   .bg-tertiary {
