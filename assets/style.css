@@ -78,6 +78,7 @@
 
   #profile-picture {
     width: 15%;
+    border-radius: 10%;
   }
   
   /* img test */
